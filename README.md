@@ -14,6 +14,7 @@ Set the `GHIDRA_INSTALL_DIR` environment variable and run `gradle`.
 
 
 ==========================
+```
 TA format: 
 MDT: https://github.com/laginimaineb/unify_trustlet
 MCLF: this loader
@@ -21,3 +22,4 @@ OP-TEE based: remove custom heaers, remain ELF file
 
 file extensions: .tabin, .tlbin, .mbin, .ta, .sec
 probably path: /mnt/vendor/persist/mcRegistry/, /vendor/app/mcRegistry/
+```
