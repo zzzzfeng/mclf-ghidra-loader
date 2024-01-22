@@ -80,4 +80,7 @@ public class MCLFLoader extends AbstractLibrarySupportLoader {
             Msg.error(this, e.getMessage());
         }
     }
+    public boolean supportsLoadIntoProgram() {
+        return true;
+    }
 }
