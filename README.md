@@ -1,3 +1,5 @@
+### fix some bug when bulild for ghidra 11.0
+
 # MCLFLoader
 
 A Ghidra loader module for the MobiCore Loadable Format (MCLF) used by trustlet and driver binaries.
