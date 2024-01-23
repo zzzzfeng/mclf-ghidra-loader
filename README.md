@@ -21,5 +21,7 @@ MCLF: this loader
 OP-TEE based: remove custom heaers, remain ELF file
 
 file extensions: .tabin, .tlbin, .mbin, .ta, .sec
-probably path: /mnt/vendor/persist/mcRegistry/, /vendor/app/mcRegistry/
+probably path: /mnt/vendor/persist/mcRegistry/, /vendor/app/mcRegistry/, /system/app/mcRegistry/
+
+https://www.synacktiv.com/en/publications/kinibi-tee-trusted-application-exploitation
 ```
