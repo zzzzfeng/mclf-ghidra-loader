@@ -12,6 +12,7 @@ Copy the ZIP file from the `dist/` to the `GHIDRA_INSTALL_DIR/Extensions/Ghidra`
 
 Set the `GHIDRA_INSTALL_DIR` environment variable and run `gradle`.
 
+cd DIR ; gradle -PGHIDRA_INSTALL_DIR=D:\Android\ghidra_11.0_PUBLIC
 
 ==========================
 ```
